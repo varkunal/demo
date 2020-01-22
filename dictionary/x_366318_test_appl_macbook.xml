@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_366318_test_appl_tablet" label="MacBook" max_length="40" name="x_366318_test_appl_macbook" type="collection"/>
+</database>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>IOS</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>IOS</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">8501e24a7d213300aadb74564bf59f00</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 08:53:18</sys_created_on>
+        <sys_id>784521b4dba28010d0d86a4948961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IOS</sys_name>
+        <sys_package display_value="Test Application" source="x_366318_test_appl">88d02398dbee0010d0d86a4948961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">88d02398dbee0010d0d86a4948961979</sys_scope>
+        <sys_update_name>sys_wizard_answer_784521b4dba28010d0d86a4948961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 08:53:18</sys_updated_on>
+        <table/>
+        <target_url>x_366318_test_appl_ios.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

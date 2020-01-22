@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Tablets</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>itil_admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 08:50:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9ab46574dba28010d0d86a494896193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tablets</sys_name>
+        <sys_package display_value="Test Application" source="x_366318_test_appl">88d02398dbee0010d0d86a4948961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">88d02398dbee0010d0d86a4948961979</sys_scope>
+        <sys_update_name>sys_ui_module_9ab46574dba28010d0d86a494896193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 08:50:56</sys_updated_on>
+        <table>x_366318_test_appl_tablet</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
