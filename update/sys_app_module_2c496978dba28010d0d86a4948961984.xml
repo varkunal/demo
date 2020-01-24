@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <application display_value="Windows">e8496978dba28010d0d86a4948961981</application>
         <assessment/>
         <content_page/>
@@ -25,7 +25,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2c496978dba28010d0d86a4948961984</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Windows</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test Application" source="x_366318_test_appl">88d02398dbee0010d0d86a4948961979</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Test Application">88d02398dbee0010d0d86a4948961979</sys_scope>
         <sys_update_name>sys_app_module_2c496978dba28010d0d86a4948961984</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-22 09:10:46</sys_updated_on>
+        <sys_updated_on>2020-01-24 05:41:13</sys_updated_on>
         <timeline_page/>
         <title>Windows</title>
         <uncancelable>false</uncancelable>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Configuration" section_id="a5849795dbeec010d0d86a494896194e" sys_domain="global" table="x_366318_test_appl_tablet" version="3" view="certification">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>65849795dbeec010d0d86a494896194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_domain</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e9849795dbeec010d0d86a494896194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>61849795dbeec010d0d86a4948961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_version</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e5849795dbeec010d0d86a4948961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_service_pack</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>6d849795dbeec010d0d86a4948961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dns_domain</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e1849795dbeec010d0d86a4948961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disk_space</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>69849795dbeec010d0d86a4948961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>ed849795dbeec010d0d86a4948961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ram</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>65849795dbeec010d0d86a4948961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_manufacturer</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e9849795dbeec010d0d86a4948961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>61849795dbeec010d0d86a4948961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_speed</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e5849795dbeec010d0d86a4948961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_count</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>6d849795dbeec010d0d86a4948961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_core_count</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e1849795dbeec010d0d86a4948961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>69849795dbeec010d0d86a4948961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>ed849795dbeec010d0d86a4948961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ui_ng_relation_formatter.xml</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>65849795dbeec010d0d86a4948961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="CI Relations">b62309137f32310009fedf92bdfa912b</sys_ui_formatter>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">a5849795dbeec010d0d86a494896194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Configuration</caption>
+            <header>false</header>
+            <name>x_366318_test_appl_tablet</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5849795dbeec010d0d86a494896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Configuration</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application" source="x_366318_test_appl">88d02398dbee0010d0d86a4948961979</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">88d02398dbee0010d0d86a4948961979</sys_scope>
+            <sys_update_name>sys_ui_section_a5849795dbeec010d0d86a494896194e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Compliance" name="certification">d62ead22df100100cd7da5f59bf26356</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

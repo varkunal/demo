@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="create records">3658db59dbeec010d0d86a4948961955</cat_item>
+        <cat_variable/>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Hide variable</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	g_form.setVisible('name',false);
+	g_form.setVisible('company',false);
+	g_form.setVisible('short_description',false);
+	
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-24 08:30:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ceb2bf91db620410d0d86a494896195c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hide variable</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Application" source="x_366318_test_appl">88d02398dbee0010d0d86a4948961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">88d02398dbee0010d0d86a4948961979</sys_scope>
+        <sys_update_name>catalog_script_client_ceb2bf91db620410d0d86a494896195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-24 08:31:05</sys_updated_on>
+        <table/>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

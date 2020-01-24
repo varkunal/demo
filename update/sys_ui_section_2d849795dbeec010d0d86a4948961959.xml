@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2d849795dbeec010d0d86a4948961959" sys_domain="global" table="x_366318_test_appl_tablet" version="3" view="certification">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e9849795dbeec010d0d86a494896195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>61849795dbeec010d0d86a494896195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e5849795dbeec010d0d86a494896195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>6d849795dbeec010d0d86a494896195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e1849795dbeec010d0d86a494896195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>69849795dbeec010d0d86a494896195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>ed849795dbeec010d0d86a494896195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>65849795dbeec010d0d86a494896195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_id</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e9849795dbeec010d0d86a494896195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>61849795dbeec010d0d86a494896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_id>e5849795dbeec010d0d86a494896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366318_test_appl_tablet" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">2d849795dbeec010d0d86a4948961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_366318_test_appl_tablet</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-24 06:16:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d849795dbeec010d0d86a4948961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366318_test_appl_tablet</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application" source="x_366318_test_appl">88d02398dbee0010d0d86a4948961979</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">88d02398dbee0010d0d86a4948961979</sys_scope>
+            <sys_update_name>sys_ui_section_2d849795dbeec010d0d86a4948961959</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-24 06:16:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Compliance" name="certification">d62ead22df100100cd7da5f59bf26356</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
